@@ -1,0 +1,27 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: #303030;
+}
+
+
+.button {
+  font-family: Digital;
+  background-color: transparent;
+  border: 2px solid #000000;
+  color: #ffcc66;
+  font-size: 30px;
+  padding: 10px;
+}
+
+.countdown {
+  text-align: center;
+  color: #ffcc66
+}
+
+h1 {
+  font-size: 60px;
+}
